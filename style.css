@@ -1,0 +1,92 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background-color: rgb(26, 25, 32);
+    color: white;
+}
+
+.container{
+    margin-top: 30vh;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 100px;
+    color: yellow;
+}
+
+.hr{
+    font-weight: bold;
+    color: rgba(62, 62, 167, 0.87);
+}
+.min{
+    font-weight: bold;
+    color: rgba(62, 62, 167, 0.87);
+}
+.sec{
+    font-weight: bold;
+    color: rgba(62, 62, 167, 0.87);
+}
+.ms{
+    font-weight: bold;
+    color: rgba(62, 62, 167, 0.87);
+}
+
+.btn{
+    margin-top: -30px;
+}
+
+.button{
+    color: white;
+    font-weight: 500;
+    font-size: medium;
+    padding: 8px 25px;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+}
+
+.reset-btn{
+    background-color: rgb(197, 54, 54);
+}
+.reset-btn:hover{
+    background-color: rgb(114, 41, 41);
+    transition: 200ms;
+}
+
+
+.stop-btn{
+    background-color: rgb(204, 204, 69);
+}
+.stop-btn:hover{
+    background-color: rgb(122, 122, 34);
+    transition: 200ms;
+}
+
+
+.start-btn{
+    background-color: rgb(109, 155, 41);
+}
+.start-btn:hover{
+    background-color: rgb(82, 116, 31);
+    transition: 200ms;
+}
+
+.dark-light{
+    background-color: #fff;
+    margin-left: 20px;
+    margin-top: 30vh;
+    color: black;
+    font-weight: 500;
+    font-size: medium;
+    padding: 8px 25px;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+}
+
